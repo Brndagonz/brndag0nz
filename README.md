@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brndag0nz
-- 👀 I’m interested in data vizualization
-- 🌱 I’m currently learning data specialization
-- 💞️ I’m looking to collaborate on Visual design and ilustration
+- 👀 I’m interested in Data Vizualization
+- 🌱 I’m currently learning Data Specialization
+- 💞️ I’m looking to collaborate on Visual design and illustration
 - 📫 How to reach me bgonzalezzzz@outlook.com
 
 <!---
